@@ -34,7 +34,7 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Floats:
     - Vector1_5D2EFD4B: 0
-    - Vector1_7B1AB4A7: -0.01
+    - Vector1_7B1AB4A7: -0.029
     - Vector1_94D77747: 0.1
     - _CameraOrthoSize: 4
     - _DistortionSpeed: 0.1
